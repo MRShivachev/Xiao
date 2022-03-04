@@ -134,8 +134,14 @@ a:hover, a:active, a:focus {
   /*background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://picsum.photos/1000/800/?random") center center no-repeat;*/
   background-size: cover;
 }
+
+#img {
+  overflow: hidden;
+  height: inherit;
+}
+
 .timeline-img-header {
-  height: 200px;
+  height: inherit;
   position: relative;
   margin-bottom: 20px;
 }
