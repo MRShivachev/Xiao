@@ -8,7 +8,7 @@ body {
   font-family: "Roboto";
   font-size: 17px;
   font-weight: 400;
-  background-color: #dfe5f0;
+  background-color: #f1f5e7;
 }
 h1 {
   font-size: 200%;
@@ -17,14 +17,14 @@ h1 {
   font-weight: 400;
 }
 header {
-  background:#2e23ad;
-  color: #c9c5f0;
+  background:#071409;
+  color: 	#f1f5e7;
   padding: 150px 0;
 
 }
 header p {
   font-family: "Allura";
-  color: rgba(234, 230, 243, 0.459);
+  color: rgba(241, 230, 226, 0.856);
   margin-bottom: 0;
   font-size: 60px;
   margin-top: -30px;
@@ -34,12 +34,19 @@ header p {
   text-align: center;
 }
 
+#img1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
 .timeline {
   position: relative;
 }
 .timeline::before {
   content: "";
-  background: #c9c5f0;
+  background:	#faf163;
   width: 5px;
   height: 95%;
   position: absolute;
@@ -92,12 +99,12 @@ header p {
   top: 30px;
   right: -15px;
   border-width: 10px 0 10px 15px;
-  border-color: transparent transparent transparent #d3c9ebd5;
+  border-color: transparent transparent transparent #f1f5e7;
 }
 .timeline-img {
   width: 30px;
   height: 30px;
-  background: #3f51b5;
+  background: #41783f;
   border-radius: 50%;
   position: absolute;
   left: 50%;
@@ -105,7 +112,7 @@ header p {
   margin-left: -15px;
 }
 a {
-  background: #3f51b5;
+  background:	#ee6c3a;
   color: #fff;
   padding: 8px 20px;
   text-transform: uppercase;
@@ -117,7 +124,7 @@ a {
   box-shadow: 0 1px 3px -1px rgba(0, 0, 0, 0.6);
 }
 a:hover, a:active, a:focus {
-  background: #32408f;
+  background:	#ee6c3a;
   color: #fff;
   text-decoration: none;
 }
@@ -146,7 +153,12 @@ a:hover, a:active, a:focus {
   margin-bottom: 20px;
 }
 .timeline-img-header h2 {
-  color: #fff;
+  color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
   position: absolute;
   bottom: 5px;
   left: 20px;
@@ -154,11 +166,11 @@ a:hover, a:active, a:focus {
 blockquote {
   margin-top: 30px;
   color: #757575;
-  border-left-color: #3f51b5;
+  border-left-color: 	#cf4c3a;
   padding: 0 20px;
 }
 .date {
-  background: #d053e0;
+  background:	#ee6c3a;
   display: inline-block;
   color: #fff;
   padding: 10px;
