@@ -15,7 +15,7 @@
 <hr><br>
            <h2> About us</h2>
            <h3> The general idea of the project is about History. We always see difficulties remembering dates around students, so we decided to make a time line</h3>
-           <br><hr>
+           <hr><br>
 <p align="left">
 </p>
 
