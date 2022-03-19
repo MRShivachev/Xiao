@@ -1,5 +1,3 @@
-<h1 align="center">Our project ✨
-
 <br>
            
 ![logo_renew](https://user-images.githubusercontent.com/85336812/159136236-e34a3055-fcdc-4f22-93f3-36004c526dac.png)
