@@ -12,9 +12,10 @@
            <summary> Miroslav Shivachev - Scrum - https://github.com/MRShivachev </summary>
 </details>
 
-<br><hr><br>
+<hr><br>
            <h2> About us</h2>
            <h3> The general idea of the project is about History. We always see difficulties remembering dates around students, so we decided to make a time line</h3>
+           <br><hr>
 <p align="left">
 </p>
 
