@@ -30,5 +30,6 @@
 
 
 <br><hr><br>
-
+<p align="center">
 ![BongoCatCodesGIF](https://user-images.githubusercontent.com/85336812/159136089-43692f3e-126b-473c-9c93-5a8c32dc6fac.gif)  
+  </p>
