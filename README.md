@@ -2,15 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
 
-**Members:**
-           <br>
-           Gergana Bineva
-           <br>
-           Stela Ivanova
-           <br>
-           Maria Ukrainska
-           <br>
-           Miroslav Shivachev
+<details>
+           <summary><h2>Members: </summary>
+           <summary> Maria Ukrainska - https://github.com/MDUkrainska20</summary>
+           <summary> Gergana Bineva - https://github.com/GIBineva </summary>
+           <summary> Stella Ivanova - https://github.com/SIIvanova20 </summary>
+           <summary> Miroslav Shivachev - https://github.com/MRShivachev </summary>
+
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
