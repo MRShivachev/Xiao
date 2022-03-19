@@ -1,7 +1,9 @@
-<h3 align="center">Our project</h3>
+<h1 align="center">Our project</h3>
 
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
 
+<br>
 <details>
            <summary><h2>Members: </summary>
            <summary> Maria Ukrainska - Backend - https://github.com/MDUkrainska20</summary>
@@ -11,7 +13,6 @@
 
 </details>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
