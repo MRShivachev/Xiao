@@ -1,5 +1,6 @@
 # About our team: Xiao!
 
+<br>
 
 <details>
   <summary> <h1> Our team </summary>
@@ -8,3 +9,5 @@
   <summary>  Gergana Bineva - https://github.com/GIBineva </summary>
   <summary>  Stella Ivanova - https://github.com/SIIvanova20 </summary>
  </details>
+
+  <br><br>
