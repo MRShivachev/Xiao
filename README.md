@@ -1,5 +1,5 @@
 # About our team: Xiao!
-
+<img scr = "https://raw.githubusercontent.com/MRShivachev/Xiao/Main/designer/logo_renew.png?token=GHSAT0AAAAAABSHCZJI4XWVNWZJBOC6LUGMYRWEANQ">
 <br>
 
 <details>
