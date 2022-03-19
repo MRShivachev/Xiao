@@ -1,6 +1,6 @@
 # About our team: Xiao!
 <br>
-<img scr = "logo_renew.png">
+<img scr = "https://raw.githubusercontent.com/MRShivachev/Xiao/Main/designer/logo_renew.png">
 <br>
 
 <details>
