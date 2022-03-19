@@ -1,6 +1,6 @@
 # About our team: Xiao!
 <br>
-<img src= “https://raw.githubusercontent.com/MRShivachev/Xiao/Main/designer/logo_renew.png?token=GHSAT0AAAAAABSHCZJI4XWVNWZJBOC6LUGMYRWEANQ” raw=true alt=“Logo” style=“margin-right: 10px;”>
+
 <br>
 
 <details>
@@ -12,5 +12,7 @@
  </details>
 
   <br><br>
+  
+  
 
   
