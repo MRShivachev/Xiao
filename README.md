@@ -1,6 +1,6 @@
 # About our team: Xiao!
 <br>
-<img scr = "logo_renew.png")
+<img scr = "logo_renew.png">
 <br>
 
 <details>
