@@ -1,6 +1,6 @@
 # About our team: Xiao!
 <br>
-![Our logo](logo_renew.png)
+<img src=“designer/logo_renew.png” raw=true alt=“Logo” style=“margin-right: 10px;”/>
 <br>
 
 <details>
@@ -12,3 +12,5 @@
  </details>
 
   <br><br>
+
+  
