@@ -1,5 +1,4 @@
-<br>
-<p align="center">           
+<br>        
 ![logo_renew](https://user-images.githubusercontent.com/85336812/159136236-e34a3055-fcdc-4f22-93f3-36004c526dac.png)
            <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
