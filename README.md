@@ -29,4 +29,4 @@
 
 <br><hr><br>
 
-![BongoCatCodesGIF](https://user-images.githubusercontent.com/85336812/159136089-43692f3e-126b-473c-9c93-5a8c32dc6fac.gif)  ![meow_party (1)](https://user-images.githubusercontent.com/85336812/159137071-295937f5-4f64-4f05-a868-995e4120c887.gif)
+![BongoCatCodesGIF](https://user-images.githubusercontent.com/85336812/159136089-43692f3e-126b-473c-9c93-5a8c32dc6fac.gif)  
