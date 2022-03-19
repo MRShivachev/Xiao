@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
 
-- Members: **Gergana Bineva** 
+Members: 
+           <br>
+           **Gergana Bineva** 
            <br>
            **Stela Ivanova**
            <br>
