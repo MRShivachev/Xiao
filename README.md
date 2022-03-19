@@ -1,4 +1,4 @@
-<h1 align="center">Our project</h3>
+<h1 align="center">Our project
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
