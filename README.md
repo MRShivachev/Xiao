@@ -1,18 +1,18 @@
-<h1 align="center">Our project
+<h1 align="center">Our project ✨
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
 </h1>
 <details>
-           <summary><h2>Members: </summary>
-           <summary> Maria Ukrainska - Backend - https://github.com/MDUkrainska20</summary>
-           <summary> Gergana Bineva - Designer - https://github.com/GIBineva </summary>
-           <summary> Stella Ivanova - Frontend - https://github.com/SIIvanova20 </summary>
-           <summary> Miroslav Shivachev - Scrum - https://github.com/MRShivachev </summary>
+           <summary><h2>Members: 😎</summary>
+           <summary> Maria Ukrainska❤️ - Backend - https://github.com/MDUkrainska20</summary>
+           <summary> Gergana Bineva✨🪑 - Designer - https://github.com/GIBineva </summary>
+           <summary> Stella Ivanova🐱- Frontend - https://github.com/SIIvanova20 </summary>
+           <summary> Miroslav Shivachev🍁 - Scrum - https://github.com/MRShivachev </summary>
 </details>
 
 <hr><br>
-           <h2> About us</h2>
+           <h2>The point of our project</h2>
            <h3> The general idea of the project is about History. We always see difficulties remembering dates around students, so we decided to make a time line</h3>
            <hr><br>
 <p align="left">
