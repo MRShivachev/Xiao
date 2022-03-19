@@ -4,10 +4,10 @@
 
 <details>
            <summary><h2>Members: </summary>
-           <summary> Maria Ukrainska - https://github.com/MDUkrainska20</summary>
-           <summary> Gergana Bineva - https://github.com/GIBineva </summary>
-           <summary> Stella Ivanova - https://github.com/SIIvanova20 </summary>
-           <summary> Miroslav Shivachev - https://github.com/MRShivachev </summary>
+           <summary> Maria Ukrainska - Backend - https://github.com/MDUkrainska20</summary>
+           <summary> Gergana Bineva - Designer - https://github.com/GIBineva </summary>
+           <summary> Stella Ivanova - Frontend - https://github.com/SIIvanova20 </summary>
+           <summary> Miroslav Shivachev - Scrum - https://github.com/MRShivachev </summary>
 
 </details>
 
