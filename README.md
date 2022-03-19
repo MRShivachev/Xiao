@@ -2,7 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
 
-- Members: **etc**
+- Members: **Gergana Bineva** 
+           <br>
+           **Stela Ivanova**
+           <br>
+           **Maria Ukrainska**
+           <br>
+           **Miroslav Shivachev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
