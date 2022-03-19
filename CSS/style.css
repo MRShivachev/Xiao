@@ -8,7 +8,7 @@ body {
   font-family: "Roboto";
   font-size: 17px;
   font-weight: 400;
-  background-color: #f1f5e7;
+  background-color: #fed8b1;
 }
 h1 {
   font-size: 200%;
@@ -17,8 +17,8 @@ h1 {
   font-weight: 400;
 }
 header {
-  background:#071409;
-  color: 	#f1f5e7;
+  background:#dd571c;
+  color: 	#fba969;
   padding: 150px 0;
 
 }
@@ -36,9 +36,8 @@ header p {
 
 #img1{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
+  margin: auto;
+
 }
 
 .timeline {
@@ -46,7 +45,7 @@ header p {
 }
 .timeline::before {
   content: "";
-  background:	#faf163;
+  background:	#fda172;
   width: 5px;
   height: 95%;
   position: absolute;
@@ -75,7 +74,7 @@ header p {
   top: 30px;
   left: -15px;
   border-width: 10px 15px 10px 0;
-  border-color: transparent #f5f5f5 transparent transparent;
+  border-color: transparent #fed8b1 transparent transparent;
 }
 .timeline-item::after {
   content: "";
@@ -99,20 +98,29 @@ header p {
   top: 30px;
   right: -15px;
   border-width: 10px 0 10px 15px;
-  border-color: transparent transparent transparent #f1f5e7;
+  border-color: transparent transparent transparent #fed8b1;
 }
 .timeline-img {
   width: 30px;
   height: 30px;
-  background: #41783f;
+  background: #fd5602;
   border-radius: 50%;
   position: absolute;
   left: 50%;
   margin-top: 25px;
   margin-left: -15px;
 }
-a {
+
+.panel {
+  padding: 0 18px;
+  background-color: #f9dfc7;
+  display: none;
+  overflow: hidden;
+}
+
+.accordion {
   background:	#ee6c3a;
+  border: #ee6c3a;
   color: #fff;
   padding: 8px 20px;
   text-transform: uppercase;
@@ -123,8 +131,38 @@ a {
   border-radius: 2px;
   box-shadow: 0 1px 3px -1px rgba(0, 0, 0, 0.6);
 }
-a:hover, a:active, a:focus {
+
+#quiz {
+  margin: 0 auto;
+  text-align: center;
   background:	#ee6c3a;
+  border: #ee6c3a;
+  color: #fff;
+  padding: 18px 30px;
+  text-transform: uppercase;
+  font-size: 14px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  display: block;
+  border-radius: 2px;
+  box-shadow: 0 1px 3px -1px rgba(0, 0, 0, 0.6);
+}
+
+#quiz:hover {
+  background-color: #fa8123;
+}
+
+.active, .accordion:hover {
+  background-color: #fa8123;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover, a:active, a:focus {
+  background:	#fa8123;
   color: #fff;
   text-decoration: none;
 }
@@ -138,7 +176,6 @@ a:hover, a:active, a:focus {
   margin-left: 20px;
 }
 .timeline-item .timeline-img-header {
-  /*background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://picsum.photos/1000/800/?random") center center no-repeat;*/
   background-size: cover;
 }
 
@@ -177,10 +214,6 @@ blockquote {
   position: absolute;
   top: 0;
   right: 0;
-}
-
-.bnt-more{
-  text-decoration: none;
 }
 
 @media screen and (max-width: 768px) {
