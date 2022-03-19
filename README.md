@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="600" height="200" src="https://user-images.githubusercontent.com/85336812/159136668-cbfa2472-ac46-4c51-8184-ea1b2e893a1b.png">
+  <img  src="https://user-images.githubusercontent.com/85336812/159136668-cbfa2472-ac46-4c51-8184-ea1b2e893a1b.png">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshivachev&label=Profile%20views&color=0e75b6&style=flat" alt="mrshivachev" /> </p>
