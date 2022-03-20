@@ -14,9 +14,15 @@
 </details>
 
 <hr><br>
-           <h2>The point of our project 📑</h2>
-           <h3> The general idea of the project is about History. We always see difficulties remembering dates around students, so we decided to make a time line 📈</h3>
-           <hr><br>
+           <h2>Problem Statement 🧐</h2>
+           <h3> Dont you fing it difficult and exhausting remembering all the dates, events and information from the history material? Dont worry we do too😅.Honesty this is a problem that inpacts most of the students. So we thoguht of a solution!</h3>
+<br><hr><br>
+           <h2>Idea 💡</h2>
+           <h3>Our idea was to make a simple website with timeline that shows only the most impostant information that the students have to remember. The website is also clean and this makes the student focus on the information easier. We also included a quzz made with javascript to test students skills and make them more confidednt about their knowledge.</h3>
+<hr><br>
+           <h2>Future goals 🚀</h2>
+           <h3>Right now our project only includes information for Bulgarian history but in the future we might add something more.</h3>
+<br>
 <p align="left">
 </p>
 
