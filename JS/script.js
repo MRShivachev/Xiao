@@ -13,6 +13,8 @@ for (i = 0; i < acc.length; i++) {
       panel.style.display = "none";
     } else {
       panel.style.display = "block";
+      panel.style.opacity = "1"
+      panel.style.transition = "opacity 2s";
     }
   });
 }

@@ -14,7 +14,7 @@
           // and for each available answer...
           for(letter in currentQuestion.answers){
   
-            // ...add an HTML radio button
+            //add an HTML radio button
             answers.push(
               `<label>
                 <input type="radio" name="question${questionNumber}" value="${letter}">
@@ -148,7 +148,7 @@
     // Show the first slide
     showSlide(currentSlide);
   
-    // Event listeners
+    // Event listenersss
     submitButton.addEventListener('click', showResults);
     previousButton.addEventListener("click", showPreviousSlide);
     nextButton.addEventListener("click", showNextSlide);

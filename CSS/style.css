@@ -115,6 +115,7 @@ header p {
   padding: 0 18px;
   background-color: #f9dfc7;
   display: none;
+  opacity: 0;
   overflow: hidden;
 }
 
@@ -146,6 +147,7 @@ header p {
   display: block;
   border-radius: 2px;
   box-shadow: 0 1px 3px -1px rgba(0, 0, 0, 0.6);
+  transition: all 1s ease-out;
 }
 
 #quiz:hover {
