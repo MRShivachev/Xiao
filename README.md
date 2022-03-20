@@ -13,8 +13,6 @@
            <summary> Miroslav Shivachev🍁 - Scrum - https://github.com/MRShivachev </summary>
 </details>
 
-  ![meow_party (1)](https://user-images.githubusercontent.com/85336812/159137176-5aa50c52-9c68-4177-aa96-5b7cfdb546a5.gif)
-
 <hr><br>
            <h2>The point of our project 📑</h2>
            <h3> The general idea of the project is about History. We always see difficulties remembering dates around students, so we decided to make a time line 📈</h3>
@@ -30,4 +28,3 @@
 
 
 <br><hr><br>
-![BongoCatCodesGIF](https://user-images.githubusercontent.com/85336812/159136089-43692f3e-126b-473c-9c93-5a8c32dc6fac.gif)  
