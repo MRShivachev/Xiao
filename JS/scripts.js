@@ -107,33 +107,61 @@
     const submitButton = document.getElementById('submit');
     const myQuestions = [
       {
-        question: "How many countries are in the world?",
+        question: "Кой е остновал първата българска държава?",
         answers: {
-          a: "197",
-          b: "89",
-          c: "100"
+          a: "Симеон I Велики",
+          b: "Хан Аспарух",
+          c: "Хан Крум"
           
+        },
+        correctAnswer: "b"
+      },
+      {
+        question: "През коя година България се покръства?",
+        answers: {
+          a: "865",
+          b: "678",
+          c: "897"
+        },
+        correctAnswer: "a" 
+      },
+      {
+        question: "Кой пристига в Плиска през 886г?",
+        answers: {
+          a: "учениците на Кирил и Методий",
+          b: "никой",
+          c: "княз Борис"
         },
         correctAnswer: "a"
       },
       {
-        question: "Which is the third biggest continent?",
+        question: "През коя година се сключва 40-годишен мирен договор с Византия?",
         answers: {
-          a: "197",
-          b: "89",
-          c: "100"
+          a: "867",
+          b: "987",
+          c: "927"
         },
-        correctAnswer: "c" 
+        correctAnswer: "c"
       },
       {
-        question: "Where is the main supply of rice coming from?",
+        question: "Кой написва 'История Славянобългарска?'",
         answers: {
-          a: "197",
-          b: "89",
-          c: "100"
+          a: "цар Симеон",
+          b: "Паисий Хилендарски",
+          c: "Софроний Врачански"
         },
         correctAnswer: "b"
+      },
+      {
+        question: "През коя година България е освободена?",
+        answers: {
+          a: "1978",
+          b: "1678",
+          c: "1878"
+        },
+        correctAnswer: "с"
       }
+      
     ];
   
     // Kick things off
