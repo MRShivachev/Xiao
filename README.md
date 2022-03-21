@@ -34,3 +34,10 @@
 
 
 <br><hr><br>
+  
+  <h3>
+  Documentation: https://github.com/MRShivachev/Xiao/blob/Main/Xiao.docx
+  <br>
+  Presentation: https://github.com/MRShivachev/Xiao/blob/Main/XiaoTeam.pptx
+</h3>
+  <br>
